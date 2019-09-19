@@ -36,7 +36,7 @@ class Shoe
     @condition = condition
   end
   
-  def condition("new")
+  def condition
     @condition
   end
   
