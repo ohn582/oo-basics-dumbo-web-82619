@@ -46,4 +46,4 @@ class Shoe
   
 end
 
-shoe = Shoe.new("new")
+binding.pry
